@@ -9520,6 +9520,69 @@
             ],
             "start_phase": 0.0,
             "time_to_play": -1
+        },
+        {
+            "ambient": false,
+            "anim": "drunk_fall_over",
+            "blendin": 4.043000221252441,
+            "blendout": -4.043000221252441,
+            "dict": "random@drunk_driver_1",
+            "flags": 2,
+            "name": "Fall_Over",
+            "pos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "start_phase": 0.0,
+            "time_to_play": -1
+        },
+        {
+            "ambient": false,
+            "anim": "pistol",
+            "blendin": 4.043000221252441,
+            "blendout": -4.043000221252441,
+            "dict": "mp_suicide",
+            "flags": 2,
+            "name": "suicide",
+            "pos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "start_phase": 0.0,
+            "time_to_play": -1
+        },
+        {
+            "ambient": false,
+            "anim": "drunk_fall_over",
+            "blendin": 4.0,
+            "blendout": -4.0,
+            "dict": "random@drunk_driver_1",
+            "flags": 2,
+            "name": "drunk_fall",
+            "pos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "start_phase": 0.0,
+            "time_to_play": -1
         }
     ],
     "NightClub (Lazlow Dance)": [
